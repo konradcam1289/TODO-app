@@ -27,8 +27,6 @@ Thymeleaf: HTML template engine for rendering views.
 
 Hibernate: Object-Relational Mapping (ORM) tool for database interaction.
 
-Lombok: Library for reducing boilerplate code.
-
 H2 DB: In-memory database for testing purposes.
 
 Open API: Specification for documenting the API endpoints.
