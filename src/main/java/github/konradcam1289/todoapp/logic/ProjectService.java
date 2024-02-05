@@ -13,8 +13,6 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 
-//@Service
-
 public class ProjectService {
     private ProjectRepository repository;
     private TaskGroupRepository taskGroupRepository;
