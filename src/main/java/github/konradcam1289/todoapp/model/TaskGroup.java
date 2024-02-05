@@ -6,7 +6,6 @@ import jakarta.validation.constraints.NotBlank;
 import java.time.LocalDateTime;
 import java.util.Set;
 
-//TODO: KOMENTARZE PROGRAMISTÓW
 @Entity
 @Table(name = "task_groups")
 public class TaskGroup {
