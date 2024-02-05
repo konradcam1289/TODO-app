@@ -12,7 +12,6 @@ class Audit {
 
     private LocalDateTime updatedOn;
     @PrePersist
-        //służy do zapisu na bazie
     void prePersist(){
         createdOn = LocalDateTime.now();
     }
